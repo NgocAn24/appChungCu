@@ -1,7 +1,0 @@
-SELECT TOP (1000) [id]
-      ,[chuho]
-      ,[dien]
-      ,[nuoc]
-      ,[dichvu]
-      ,[tong]
-  FROM [DANGNHAP].[dbo].[HOADON]

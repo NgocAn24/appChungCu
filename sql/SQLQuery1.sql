@@ -1,7 +1,0 @@
-SELECT TOP (1000) [id]
-      ,[ten]
-      ,[username]
-      ,[gmail]
-      ,[pass]
-      ,[dang]
-  FROM [DANGNHAP].[dbo].[ACCOUNT]
