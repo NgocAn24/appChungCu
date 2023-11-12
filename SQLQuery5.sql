@@ -1,6 +1,0 @@
-SELECT TOP (1000) [id]
-      ,[ten]
-      ,[biensoxe]
-      ,[loaixe]
-      ,[idthe]
-  FROM [DANGNHAP].[dbo].[XE]
